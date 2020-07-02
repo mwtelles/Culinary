@@ -306,8 +306,6 @@ th {
 }
 
 
-/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
-
 @media print {
     *,
     *:before,
@@ -43842,4 +43840,13 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
         margin: auto !important;
         right: 0;
     }
+}
+
+
+.fa-github:hover {
+    color: gray;
+}
+
+p {
+    font-size:15px;
 }
